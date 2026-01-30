@@ -3,7 +3,8 @@
 > **Automação de Elite para Extração de Dados na Nike Brasil.**
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg" width="120" alt="Nike Logo">
+  <img src=" https://img.icons8.com/?size=100&id=73pmmnXTKwZL&format=png&color=000000" width="120" alt="Nike Logo">
+ 
   <br>
   <h3>✔️ STATUS: OPERACIONAL | 🛡️ ANTIBOT: ATIVO</h3>
   <br>
@@ -33,7 +34,7 @@ Para rodar este script, você precisa de uma extensão gerenciadora de Userscrip
 1.  Instale a extensão **Tampermonkey** no seu navegador.
 2.  Clique no ícone da extensão e selecione **"Adicionar novo script"**.
 3.  Apague qualquer código que já esteja no editor.
-4.  Cole o código fonte deste projeto (`nike_scraper_v6.js`).
+4.  Cole o código fonte deste projeto (`script.js`).
 5.  Salve (Ctrl+S) e acesse o site da Nike.
 
 ## 🎮 Como Usar
@@ -44,7 +45,3 @@ Para rodar este script, você precisa de uma extensão gerenciadora de Userscrip
 4.  Aguarde o processo automático de scroll e paginação.
 5.  O download iniciará sozinho ao final.
 
----
-<div align="center">
-  <sub>Desenvolvido com 💙 via IA Assistant</sub>
-</div>
