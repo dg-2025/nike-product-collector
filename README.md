@@ -3,8 +3,7 @@
 > **Automação de Elite para Extração de Dados na Nike Brasil.**
 
 <div align="center">
-  <img src=" https://img.icons8.com/?size=100&id=73pmmnXTKwZL&format=png&color=000000" width="120" alt="Nike Logo">
- 
+  <img src="https://github.com/user-attachments/assets/508bdb69-95b5-4776-b0e7-3d09dec435c0" width="120" alt="Nike Logo">
   <br>
   <h3>✔️ STATUS: OPERACIONAL | 🛡️ ANTIBOT: ATIVO</h3>
   <br>
